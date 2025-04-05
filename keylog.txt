@@ -1,0 +1,19 @@
+2025-04-05 15:32:16,290: Special key Key.shift pressed
+2025-04-05 15:32:16,626: Key H pressed
+2025-04-05 15:32:17,926: Key i pressed
+2025-04-05 15:32:18,266: Special key Key.space pressed
+2025-04-05 15:32:18,990: Special key Key.shift pressed
+2025-04-05 15:32:19,310: Key I pressed
+2025-04-05 15:32:21,052: Special key Key.space pressed
+2025-04-05 15:32:22,522: Key a pressed
+2025-04-05 15:32:22,679: Key m pressed
+2025-04-05 15:32:22,904: Special key Key.space pressed
+2025-04-05 15:32:23,176: Special key Key.shift pressed
+2025-04-05 15:32:23,333: Key P pressed
+2025-04-05 15:32:23,674: Key u pressed
+2025-04-05 15:32:23,757: Key s pressed
+2025-04-05 15:32:24,063: Key k pressed
+2025-04-05 15:32:24,090: Key a pressed
+2025-04-05 15:32:24,437: Key r pressed
+2025-04-05 15:32:25,756: Special key Key.enter pressed
+2025-04-05 15:32:26,047: Special key Key.esc pressed
